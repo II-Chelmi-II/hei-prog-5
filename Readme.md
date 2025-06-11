@@ -1,5 +1,5 @@
 # 🐍 HEI Snake Game  
-*(Calculatrice et cahier de leçon autorisés)*  
+*(Calculatrice et cahier de leçon autorisés)*
 
 ## 🎯 Objectifs
 
